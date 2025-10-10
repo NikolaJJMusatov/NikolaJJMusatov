@@ -42,7 +42,6 @@
 
 ### 📊 GitHub Статистика
 ![Stats](https://github-readme-stats.vercel.app/api?username=NikolaJJMusatov&show_icons=true&count_private=true&include_all_commits=false&theme=radical)
-![Streak](https://streak-stats.demolab.com?user=NikolaJJMusatov&theme=radical&date_format=j%20M%5B%20Y%5D)
 
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=NikolaJJMusatov&layout=compact&langs_count=6&hide_border=true&theme=radical)
 
