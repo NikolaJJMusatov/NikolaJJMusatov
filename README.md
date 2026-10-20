@@ -40,11 +40,7 @@
 ## 🖼 Другие проекты
 
 <p align="center">
-  <img src="./assets/lukoil.png" width="200"/>
   <img src="./assets/marketplace.png" width="200"/>
-</p>
-
-<p align="center">
   <img src="./assets/services.png" width="200"/>
   <img src="./assets/peach.png" width="200"/>
 </p>
